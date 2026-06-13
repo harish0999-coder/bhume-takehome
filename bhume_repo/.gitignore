@@ -1,0 +1,14 @@
+# Data files (too large for GitHub - download from hiring.bhume.in/start)
+data/*/imagery.tif
+data/*/boundaries.tif
+data/*/input.geojson
+data/*/example_truths.geojson
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
