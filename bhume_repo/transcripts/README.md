@@ -3,7 +3,7 @@
 ## Claude.ai (web)
 
 This solution was developed with Claude Sonnet 4.6 assistance.
-Share link: [paste your Claude chat share link here after sharing]
+Share link: https://claude.ai/share/ae43ac6c-9867-4dd2-a447-09236d9bb731
 
 ## Approach discussed
 - Problem analysis: area ratio classification, placement vs area errors
